@@ -14,6 +14,9 @@ export default function Contents (props) {
         width: w || 'auto',
         marginLeft: 'auto',
         marginRight: 'auto',
+        paddingTop: gutter,
+        paddingLeft: gutter,
+        paddingRight: gutter,
     };
 
     return (

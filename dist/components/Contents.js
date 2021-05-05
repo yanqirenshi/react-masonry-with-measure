@@ -20,7 +20,10 @@ function Contents(props) {
   var style = {
     width: w || 'auto',
     marginLeft: 'auto',
-    marginRight: 'auto'
+    marginRight: 'auto',
+    paddingTop: gutter,
+    paddingLeft: gutter,
+    paddingRight: gutter
   };
   return /*#__PURE__*/_react["default"].createElement("div", {
     style: style

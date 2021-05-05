@@ -36,7 +36,7 @@ function _arrayWithHoles(arr) { if (Array.isArray(arr)) return arr; }
 var style = {
   root: {
     width: '100%',
-    background: '#333333'
+    background: 'none'
   }
 };
 

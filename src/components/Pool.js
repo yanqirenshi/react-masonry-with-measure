@@ -7,7 +7,7 @@ import ensure from '../js/Pool.js';
 const style = {
     root: {
         width: '100%',
-        background:'#333333',
+        background: 'none',
     },
 };
 
